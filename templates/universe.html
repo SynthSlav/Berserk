@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% block content %}
+
+  <h4 class="display-6">
+    The universe is a macrocosmic trinity comprising three fundamental realms of existence: the Physical World, the
+    Astral
+    World, and the Ideal World. Following the Great Roar of the Astral World, the universe has returned to an ancient
+    state whereby the physical and astral realms are largely intermingled in a single realm known as Fantasia.
+  </h4>
+  <figure>
+    <blockquote class="blockquote">
+      <p>The fundamental principle of magic is "accepting the great mysteries and exploring the universe from within
+        one's own world."</p>
+    </blockquote>
+    <figcaption class="blockquote-footer">
+      Flora the old mage from <cite title="Source Title">Berserker (Millenium Falcon Arc)</cite>
+    </figcaption>
+  </figure>
+
+<div class="container-fluid">
+  <a href="{{ url_for('characters') }}" class="btn btn-info" role="button">Characters</a>
+  <a href="{{ url_for('locations') }}" class="btn btn-info" role="button">Locations</a>
+  <a href="{{ url_for('objects') }}" class="btn btn-info" role="button">Objects</a>
+  <a href="{{ url_for('timelines') }}" class="btn btn-info" role="button">Timelines</a>
+</div>
+{% block universe %}
+{% endblock %}
+{% endblock %}           
+</body>
+</html>
+
+        
+
