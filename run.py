@@ -1,7 +1,6 @@
 import os
 from flask import Flask, render_template
 
-
 app = Flask(__name__)
 
 
@@ -14,17 +13,21 @@ def index():
 def universe():
     return render_template("universe.html")
 
+
 @app.route("/locations")
 def locations():
     return render_template("locations.html")
+
 
 @app.route("/characters")
 def characters():
     return render_template("characters.html")
 
+
 @app.route("/objects")
 def objects():
     return render_template("objects.html")
+
 
 @app.route("/timelines")
 def timelines():
@@ -39,6 +42,7 @@ def contact():
 @app.route("/careers")
 def careers():
     return render_template("careers.html")
+
 
 if __name__ == "__main__":
     app.run(
