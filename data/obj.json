@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Beherit",
+        "img_url": "https://berserk.fandom.com/wiki/Beherit?file=Manga_E73_Active_Beherit.png",
+        "description": "Beherits[expl 1] (ベヘリット; Dark Horse: Behelits), also referred to as 異界への呼び水 (literally 'primed droplets connecting to the beyond'), are highly spiritual stone objects that act as keys that link a deep layer of the Astral World to the Physical World. It is said that they govern the fate of humanity."
+    },
+    {
+        "name": "Beserker Armor",
+        "img_url": "https://berserk.fandom.com/wiki/Berserker_Armor?file=Manga_E224_Berserker_Armor.png",
+        "description": "The Berserker Armor is a suit of highly durable body armor currently worn by Guts. Wearers of the armor are aptly named 'berserkers', due to the superhuman strength and inhuman ferocity they are bestowed."
+    },
+    {
+        "name": "Dragon Slayer",
+        "img_url": "https://berserk.fandom.com/wiki/Dragon_Slayer?file=Manga_E1.png",
+        "description": "The Dragon Slayer is the massive sword Guts has wielded as his signature weapon since surviving the Eclipse."
+    },
+    {
+        "name": "Skull Knight's Sword",
+        "img_url": "https://berserk.fandom.com/wiki/Skull_Knight%27s_Sword?file=Manga+E156+Thorned+Sword.png",
+        "description": "The Skull Knight's sword is a thorned sword wielded by the Skull Knight against inhumans, namely apostles and God Hand members. The Skull Knight is capable of coating the sword in a molten mass of ingested beherits stored within him, forming the Sword of Beherits"
+    }
+]

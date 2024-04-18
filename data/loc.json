@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Falconia",
+        "img_url": "https://berserk.fandom.com/wiki/Falconia?file=Manga_E307_Falconia_Overview.png",
+        "description": "Falconia (ファルコニア) is the capital of Midland, situated near the foot of the World Spiral Tree atop the land where Wyndham once sat. The city surfaces as if from thin air following the Great Roar of the Astral World, and it is said to serve as the sole safe haven for humanity in Fantasia. It was revealed by Great Guru Gedfring that Falconia is in fact Emperor Gaiseric's sunken capital city of yore risen anew."
+    },
+    {
+        "name": "Midland",
+        "img_url": "https://berserk.fandom.com/wiki/Midland?file=Manga_E13_Midland_Flag.png",
+        "description": "The Kingdom of Midland (ミッドランド王国) is a monarchy under the influence of the Holy See. As its name implies, Midland is geographically central to the continent on which Berserk predominantly takes place. After its Hundred-Year War with the Tudor Empire, Midland enjoys a brief peace among its rival nations. "
+    },
+    {
+        "name": "Kushan",
+        "img_url": "https://berserk.fandom.com/wiki/Kushan_Empire?file=27-05-002.jpg",
+        "description": "Kushan is a large empire ruled by Emperor Ganishka. The empire is located to the far east of the Holy See nations. It is not a monolithic empire - rather, it comprises a royal house over lesser ones. This led to grudges between them. "
+    },
+    {
+        "name": "Abyss",
+        "img_url": "https://berserk.fandom.com/wiki/Abyss?file=Abyss.jpg",
+        "description": "The Abyss (深淵 Shin'en) is the deepest level of the Astral World. It is called 'Hell' by some.The Abyss is the home of the Idea of Evil. It has a vortex of souls, described by Puck as 'an endless swirl of consciousness' that feels 'as if all the evil in the world were gathered there'. "
+    }
+    
+]
