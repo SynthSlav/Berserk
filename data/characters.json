@@ -1,7 +1,7 @@
 [
     {
         "name": "Griffith",
-        "thumbnail": "https://berserk.fandom.com/wiki/Griffith?file=BTCG_Griffith_Holding_Sabre.png",
+        "thumbnail": "https://static.wikia.nocookie.net/berserk/images/b/b0/BTCG_Griffith_Holding_Sabre.png",
         "affiliation": "Band of the Falcon",
         "fightstyle": "Swordsmanship",
         "url": "griffith",
@@ -11,7 +11,7 @@
     },
     {
         "name": "Guts",
-        "thumbnail": "https://berserk.fandom.com/wiki/Guts?file=Manga_V38_Guts.png",
+        "thumbnail": "https://static.wikia.nocookie.net/berserk/images/4/40/Manga_V38_Guts.png",
         "affiliation": "Band of the Falcon/Black Swordsman group",
         "fightstyle": "Swordsmanship",
         "url": "guts",
@@ -21,7 +21,7 @@
     },
     {
         "name": "Casca",
-        "thumbnail": "https://berserk.fandom.com/wiki/Casca?file=BTCG_Casca_and_Puck.png",
+        "thumbnail": "https://static.wikia.nocookie.net/berserk/images/d/d0/BTCG_Casca_and_Puck.png",
         "affiliation": "Band of the Falcon/Black Swordsman group",
         "fightstyle": "Swordsmanship",
         "url": "casca",
@@ -31,7 +31,7 @@
     },
     {
         "name": "Puck",
-        "thumbnail": "https://berserk.fandom.com/wiki/Puck?file=Puck_Manga.jpg",
+        "thumbnail": "https://static.wikia.nocookie.net/berserk/images/b/b6/Puck.png",
         "affiliation": "Black Swordsman group",
         "fightstyle": "Pisky Magic",
         "url": "puck",

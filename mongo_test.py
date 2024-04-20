@@ -15,7 +15,7 @@ except Exception as e:
 print(client.list_database_names())
 
 db = client.test
-
+area = db.area
 print(db.list_collection_names)
 
 areas1 =     {
@@ -43,3 +43,5 @@ areas2 =    {
 #result = area.insert_many(areas2)
 
 print(area.count_documents({}))
+
+print(area)

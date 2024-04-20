@@ -1,6 +1,18 @@
 {% extends "universe.html" %}
 {% block universe %}
 <h2>{{ page_title }}</h2>
+{% for object in objects %}
 
+<div class="row featurette">
+    <div class="col-md-7">
+        <h3>{{ object.name }}</h3>
+        <p>{{ object.description }}</p>
+    </div>
+    <div class="col-md-5">
+        <img src="{{ object.img_url }}" alt="" class="featurette-image img-thumbnail">
+    </div>
+</div>
 
+<hr class="featurette-divider">
+{% endfor %}
 {% endblock %}
