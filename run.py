@@ -23,8 +23,9 @@ except Exception as e:
 
 print(client.list_database_names())
 
-db = client['area']
-area = db.area
+db = client.get_database['area']
+area_db = db.area
+print(list(area_db))
 
 
 objects_collection = db.get_collection('objects')
